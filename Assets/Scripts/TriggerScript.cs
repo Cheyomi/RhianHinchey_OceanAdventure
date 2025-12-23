@@ -1,16 +1,22 @@
 using UnityEngine;
+using UnityEngine.Playables;
+using UnityEngine.Timeline;
+
 
 public class TriggerScript : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    public bool isPlayed;
+
+    [SerializeField] private PlayableDirector playableDirector;
+
+    public void OnTriggerEnter(Collider other)
     {
-        
+        playableDirector.Play();
+
+        GetComponent<MeshRenderer>().enabled = false;
+
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }
