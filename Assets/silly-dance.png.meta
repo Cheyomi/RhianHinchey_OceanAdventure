@@ -1,0 +1,1727 @@
+fileFormatVersion: 2
+guid: fab9922adf0d8134f997a8b564f2d39f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: silly-dance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b432ca018d37ef248ae356938168d535
+      internalID: 937328959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fec751dfb22ef4e8a79cc087a4fc9f
+      internalID: 949271629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d2a2c3bf42164faee34b20e540e98
+      internalID: 604531656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e26b6ac1d7cdda49b9355bf8a0e5955
+      internalID: -1076079632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb72c0799c07024b91fb3f0a5e4f891
+      internalID: 1792047141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f17cd28f5d54d48aa245a33a2dff99
+      internalID: -31844029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4170
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83a22e9a5980c42999a9b3235db55c
+      internalID: -1704871829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07629696225fbcc49add4523f9e426cc
+      internalID: -1109048840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc54ea0e24f9604385876ee873c21ab
+      internalID: -1239286181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc75a2acccff3e4ea3776a4e966dae4
+      internalID: 890901182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468121260aa259e40840931fe846698f
+      internalID: 340112090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9bff025234d642bdb3d423b5b82b7
+      internalID: -348113159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55adb1e1d38c6d443a28fd3e15c5d95f
+      internalID: -1271776510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3710
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1238861177a2468c05dd51787055d
+      internalID: -440553080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a69652158a7f54c98d0989336efba8
+      internalID: -1442598383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3593cf0df44014cba5adc1f64edd70
+      internalID: 2116962198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77852d753897d694ab1305d75f854f88
+      internalID: -2086818465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760028b52e05e354b83a0455b86a34fe
+      internalID: -1394961219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded85cd1c65e7b4080ffcdc56a46395
+      internalID: 457960872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e2d83180a9cd419b5c85555a77e19
+      internalID: 1018707149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_20
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3250
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09695a30786b5ee45b0fecfbd0af7cb5
+      internalID: -1102336437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff959c21d649a147a2b363f1ab24f10
+      internalID: -941229469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857b69de29ff464fb24e223bfdb6f13
+      internalID: 1223849202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23207fa7cdc57441bd62f1125b001a5
+      internalID: 836945545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23f43459139ef2469342de0f3b42768
+      internalID: -344503378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c871ebc06a57b41b9cb7e330ed9893
+      internalID: 1932740472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7a7ed9e0e49604dbb91f7685342d4a
+      internalID: 954102915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2790
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e524a3bc86970bd4f824557477c7b823
+      internalID: 1001637746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee3c9069b3f2341b841daf1800b985
+      internalID: 1116122761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d51130d7af9246869b3846c7f4b59
+      internalID: 2092722859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc4eea55fda504097584372ed934c5
+      internalID: 594202641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1443056112db44a995e7a9f2b5461
+      internalID: -1385964928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a7b3610859374e8d0f29600f017cc
+      internalID: -790481663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_33
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4a1f96e7cc6334a963fb9c23baed06
+      internalID: 321511961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2330
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267b89a15f6ad0049a5dfc0bbfaae70d
+      internalID: 1240799769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6be37dc03634bd44bba7eeb0b79cc66
+      internalID: -2140774389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c07f6899ea0b47a7dc8ab858b4e06
+      internalID: -1632419087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0844df4ac0e441a3ce89ea0662d5f
+      internalID: 812753530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4978dd44c89ffba41b7bbb4c8c062378
+      internalID: 153140813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_39
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d27db5440b16458aefd5aa097eb5b
+      internalID: 1625441443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf408024d2d1ae4191a94dcbeb1cf34
+      internalID: 944997653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_41
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1870
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1888a6536380b41a584e24cb32fb6a
+      internalID: -1490186987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b97b14026dff44807adc459b50db1
+      internalID: 1808065850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df66aa1cbd75a9439d86bc058caa292
+      internalID: -1505893698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a1e954fa45544ea172fc14f1e9fe9
+      internalID: 1368751873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1937565c3ea940b557a565f184cb3
+      internalID: 149187810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433e952e2c6d30e40a2c82b8d8f49d6f
+      internalID: 1882259131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_47
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a474bc8c95cbe74b86da8664a217bb6
+      internalID: -2093800833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1410
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b0112144e255d4bb53416794cc67b0
+      internalID: 1048169667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb4eca7f53417a4692dc05625d890bb
+      internalID: 1859988158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de16b94a0827cef4995f2300f6b903b3
+      internalID: -1172611565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e869ed3fe907ae42917c965ee521a2a
+      internalID: -1265161552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7f1ca1ef35f94caad0c4505c03e1f
+      internalID: -1507913598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c649aae8e8c254787899039c085531
+      internalID: 617022302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_54
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfadc89975169e848a4516e8dbbef0c4
+      internalID: -1674493475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_55
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 950
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62804cb07994d747a35989e26925b7e
+      internalID: -471392136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42868c92bcd8bc24f971621a33823ece
+      internalID: -124270033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e785067ef39b46bbb06cbe2b81c83
+      internalID: -1116417392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda3545b86aed740b7136d63047eee4
+      internalID: 1953438041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_59
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192b8bea853abc4a98d37af8594d242
+      internalID: 259625867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_60
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88653d1cf79990849a69640335c89e1b
+      internalID: 1039536841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_61
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9f417e60645d244a90abbc6786319d
+      internalID: -2096479561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_62
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 490
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7454c7b25a9642a7d31206551d725
+      internalID: -970787285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7d3e145bede1479f886e68e616a56
+      internalID: -814079467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7262df6394b2fe42ba6d6e13b748842
+      internalID: -686096812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6b8770d77bd94cbba6f84f87f6ee6
+      internalID: -1787892987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_66
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196aae2fd2d6a0f46aee125cafb2c7f7
+      internalID: 696029796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_67
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad0cba200255d4f9fe193e393cf378
+      internalID: -1601076643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_68
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bca095cab05cc47bcd7c59c4d3954e
+      internalID: -907267219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: silly-dance_69
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 30
+        width: 400
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e162ed8e7db245b86ef7577d46c7a
+      internalID: 527589546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 162f0180de535ee48a066890d81faa21
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      silly-dance_0: 937328959
+      silly-dance_1: 949271629
+      silly-dance_10: 340112090
+      silly-dance_11: -348113159
+      silly-dance_12: -1271776510
+      silly-dance_13: -440553080
+      silly-dance_14: -1442598383
+      silly-dance_15: 2116962198
+      silly-dance_16: -2086818465
+      silly-dance_17: -1394961219
+      silly-dance_18: 457960872
+      silly-dance_19: 1018707149
+      silly-dance_2: 604531656
+      silly-dance_20: -1102336437
+      silly-dance_21: -941229469
+      silly-dance_22: 1223849202
+      silly-dance_23: 836945545
+      silly-dance_24: -344503378
+      silly-dance_25: 1932740472
+      silly-dance_26: 954102915
+      silly-dance_27: 1001637746
+      silly-dance_28: 1116122761
+      silly-dance_29: 2092722859
+      silly-dance_3: -1076079632
+      silly-dance_30: 594202641
+      silly-dance_31: -1385964928
+      silly-dance_32: -790481663
+      silly-dance_33: 321511961
+      silly-dance_34: 1240799769
+      silly-dance_35: -2140774389
+      silly-dance_36: -1632419087
+      silly-dance_37: 812753530
+      silly-dance_38: 153140813
+      silly-dance_39: 1625441443
+      silly-dance_4: 1792047141
+      silly-dance_40: 944997653
+      silly-dance_41: -1490186987
+      silly-dance_42: 1808065850
+      silly-dance_43: -1505893698
+      silly-dance_44: 1368751873
+      silly-dance_45: 149187810
+      silly-dance_46: 1882259131
+      silly-dance_47: -2093800833
+      silly-dance_48: 1048169667
+      silly-dance_49: 1859988158
+      silly-dance_5: -31844029
+      silly-dance_50: -1172611565
+      silly-dance_51: -1265161552
+      silly-dance_52: -1507913598
+      silly-dance_53: 617022302
+      silly-dance_54: -1674493475
+      silly-dance_55: -471392136
+      silly-dance_56: -124270033
+      silly-dance_57: -1116417392
+      silly-dance_58: 1953438041
+      silly-dance_59: 259625867
+      silly-dance_6: -1704871829
+      silly-dance_60: 1039536841
+      silly-dance_61: -2096479561
+      silly-dance_62: -970787285
+      silly-dance_63: -814079467
+      silly-dance_64: -686096812
+      silly-dance_65: -1787892987
+      silly-dance_66: 696029796
+      silly-dance_67: -1601076643
+      silly-dance_68: -907267219
+      silly-dance_69: 527589546
+      silly-dance_7: -1109048840
+      silly-dance_8: -1239286181
+      silly-dance_9: 890901182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
