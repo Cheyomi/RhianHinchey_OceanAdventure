@@ -138,6 +138,8 @@ public class PlayerController : MonoBehaviour
     private CharacterController characterController;
     private Transform cameraRoot;
 
+
+
     // Defines the discrete states the character can be in. Used to drive logic like speed, animations (if implemented), and available actions.   
     public enum MovementState
     {
@@ -155,6 +157,9 @@ public class PlayerController : MonoBehaviour
         inputManager = GetComponent<InputManager>();
         characterController = GetComponent<CharacterController>();
         cameraRoot = transform.Find("CameraRoot");
+
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
 
 
         #region Initialize Default values
